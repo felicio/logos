@@ -16,6 +16,9 @@ List of Services' logos with references to respective terms or licenses 📑.
 - JavaScript (unofficial)
   - [logo](https://github.com/voodootikigod/logo.js/blob/master/js.svg)
   - [license](https://github.com/voodootikigod/logo.js/blob/master/LICENSE)
+- V8
+  - [logo](https://github.com/v8/v8/wiki/images/v8logo.svg)
+  - ~~license~~
 
 ## License
 
