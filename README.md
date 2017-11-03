@@ -8,6 +8,9 @@ List of Services' logos and references to their licenses 📑.
 - GitHub
   - [logo](https://github.com/logos)
   - _license_
+- JavaScript (unofficial)
+  - [logo](https://github.com/voodootikigod/logo.js/blob/master/js.svg)
+  - [license](https://github.com/voodootikigod/logo.js/blob/master/LICENSE)
 
 ## License
 
