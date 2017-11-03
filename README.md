@@ -1,5 +1,5 @@
 # logos
-List of Services' logos with references to respective terms 📑.
+List of Services' logos with references to respective terms or licenses 📑.
 
 ## Services
 
@@ -7,10 +7,11 @@ List of Services' logos with references to respective terms 📑.
 
 - GitHub
   - [logo](https://github.com/logos)
+  - [terms](https://github.com/logos)
   - ~~license~~
 - npm
   - [logo](https://github.com/npm/logos/blob/master/%22npm%22%20lockup/npm.svg)
-  - [trademark policy](https://www.npmjs.com/policies/trademark#the-npm-trademark-policy)
+  - [terms](https://www.npmjs.com/policies/trademark#the-npm-trademark-policy)
   - ~~license~~
 - JavaScript (unofficial)
   - [logo](https://github.com/voodootikigod/logo.js/blob/master/js.svg)
