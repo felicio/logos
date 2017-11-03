@@ -5,6 +5,9 @@ List of Services' logos with references to respective terms or licenses 📑.
 
 > Note: The “Service” refers to the applications, software, products, and services provided to software development community.
 
+- Git
+  - [logo](https://git-scm.com/downloads/logos)
+  - [license](https://creativecommons.org/licenses/by/3.0/)
 - GitHub
   - [logo](https://github.com/logos)
   - [terms](https://github.com/logos)
