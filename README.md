@@ -1,5 +1,5 @@
 # logos
-List of Services' logos and references to their licenses 📑.
+List of Services' logos with references to respective terms 📑.
 
 ## Services
 
