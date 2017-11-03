@@ -8,6 +8,10 @@ List of Services' logos and references to their licenses 📑.
 - GitHub
   - [logo](https://github.com/logos)
   - _license_
+- npm
+  - [logo](https://github.com/npm/logos/blob/master/%22npm%22%20lockup/npm.svg)
+  - [trademark policy](https://www.npmjs.com/policies/trademark#the-npm-trademark-policy)
+  - _license_
 - JavaScript (unofficial)
   - [logo](https://github.com/voodootikigod/logo.js/blob/master/js.svg)
   - [license](https://github.com/voodootikigod/logo.js/blob/master/LICENSE)
