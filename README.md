@@ -19,6 +19,9 @@ List of Services' logos with references to respective terms or licenses 📑.
 - V8
   - [logo](https://github.com/v8/v8/wiki/images/v8logo.svg)
   - ~~license~~
+- ESLint
+  - [logo](https://github.com/eslint/eslint.github.io/blob/master/img/logo.svg)
+  - [license](https://github.com/eslint/eslint.github.io/blob/master/LICENSE)
 
 ## License
 
