@@ -25,6 +25,9 @@ List of Services' logos with references to respective terms or licenses 📑
 - ESLint
   - [logo](https://github.com/eslint/eslint.github.io/blob/master/img/logo.svg)
   - [license](https://github.com/eslint/eslint.github.io/blob/master/LICENSE)
+- React
+  - [logo](https://github.com/reactjs/reactjs.org/blob/1349493721cd03d7185248d37937608f15a446aa/src/icons/logo.svg)
+  - [license](https://github.com/reactjs/reactjs.org/blob/1349493721cd03d7185248d37937608f15a446aa/LICENSE.md)
 
 ## License
 
